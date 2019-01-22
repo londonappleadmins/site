@@ -1,0 +1,72 @@
+defaults: &defaults
+  working_directory: /tmp/site
+  docker:
+    - image: jekyll/jekyll:3.8.5
+  environment:
+    - SOURCE_DIR: /tmp/site/_site
+    - S3_BUCKET: londonappleadmins
+    - S3_REGION: us-east-1
+
+version: 2
+jobs:
+  build:
+    <<: *defaults
+    steps:
+      - checkout
+      - run:
+          name: jekyll build
+          command: bundle exec jekyll build --source $CIRCLE_WORKING_DIRECTORY
+      - persist_to_workspace:
+          root: /tmp/site
+          paths:
+            - '_site'
+  test:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: /tmp/site
+      - run:
+          name: run tests
+          command: |
+            htmlproofer --check-html --alt-ignore '/.*/' --disable_external $SOURCE_DIR
+  deploy:
+    <<: *defaults
+    docker:
+       - image: circleci/python:2.7-jessie
+    steps:
+      - attach_workspace:
+          at: /tmp/site
+      - run:
+          name: Install awscli
+          command: sudo pip install awscli
+      - run:
+          name: Upload to s3
+          command: aws s3 sync $SOURCE_DIR s3://$S3_BUCKET --delete
+  invalidate:
+    <<: *defaults
+    docker:
+      - image: circleci/python:2.7-jessie
+    steps:
+      - run:
+          name: Install awscli
+          command: sudo pip install awscli
+      - run:
+          name: Create Cloudfront invalidation
+          command: aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_ID --paths /
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
+      - invalidate:
+            requires:
+              - deploy
+            filters:
+              branches:
+                only: master
