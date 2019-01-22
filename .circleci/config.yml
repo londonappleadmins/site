@@ -14,6 +14,9 @@ jobs:
     steps:
       - checkout
       - run:
+          name: bundle install
+          command: bundle install
+      - run:
           name: jekyll build
           command: bundle exec jekyll build --source $CIRCLE_WORKING_DIRECTORY
       - persist_to_workspace:
