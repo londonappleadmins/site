@@ -1,0 +1,16 @@
+---
+author: za1e9e
+comments: true
+date: 2014-08-01 23:49:30+00:00
+layout: post
+link: http://www.londonappleadmins.org.uk/events/welcome/
+slug: welcome
+title: September 3rd - Save The Date
+wordpress_id: 13
+categories:
+- Events
+---
+
+On September 3rd we'll be running our 1st "proper" meetup near St. Paul's.
+
+More information on this event will be announced shortly, but cancel all plans & come along.
