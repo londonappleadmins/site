@@ -41,7 +41,7 @@ The schedule was as follows (click the links to download the slides):
 
 As well as our guest speakers, we had a panel discussion, entitled "Ask us anything". Whether you're new to the Apple Admin scene or a seasoned veteran, we encouraged you to ask our panel anything you like. We wanted to provoke interesting discussion and debate in a non-judgemental environment. When you registered, you could submit a question for the panel ahead of time by filling in that part of the form.
 
-https://youtu.be/b9WEaYK3yeE
+[Video Link](https://youtu.be/b9WEaYK3yeE)
 
 Your nearest public transport link is Old Street tube station.
 

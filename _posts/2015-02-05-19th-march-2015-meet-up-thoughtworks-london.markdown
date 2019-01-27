@@ -11,11 +11,13 @@ categories:
 - Events
 ---
 
-On March 19th we had our second meet up. This time the good folks at [ThoughtWorks London](http://www.thoughtworks.com) not only offered us the use of their space, but also supplied beverages & food.
+On March 19th we had our second meet up. This time the good folks at [ThoughtWorks London](https://www.thoughtworks.com) not only offered us the use of their space, but also supplied beverages & food.
 
 As you may see from the [survey](https://www.surveymonkey.com/results/SM-V839MFNL/), the schedule has changed as we've learnt a few things.
 
-A recording of the meet up can be found on our YouTube channel & has been embedded below;
+A recording of the meet up can be found on our YouTube channel & has been embedded below
+
+[Video Link](https://www.youtube.com/embed/lo7ZDRK_7BI)
 
 
 

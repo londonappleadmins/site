@@ -50,7 +50,7 @@ We've still got space for one or two speakers - if you'd like to present, we'd l
 
 
 
-[http://www.londonappleadmins.org.uk/get-involved/](http://www.londonappleadmins.org.uk/get-involved/)
+[Get Involved](/get-involved)
 
 
 

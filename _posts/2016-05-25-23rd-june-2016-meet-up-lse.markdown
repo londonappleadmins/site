@@ -11,7 +11,7 @@ categories:
 - Events
 ---
 
-The lovely people at the [LSE](http://www.lse.ac.uk/) hosted our  June 2016 meet up.
+The lovely people at the [LSE](https://www.lse.ac.uk/) hosted our  June 2016 meet up.
 
 The schedule was:
 
@@ -33,11 +33,11 @@ The schedule was:
   * 20:30 - 21:00 Open Discussion
 
 	
-  * 21:00 - ?? - [George IV](http://www.lse.ac.uk/intranet/LSEServices/cateringServices/restaurantsAndCafes/georgeIVPub/Home.aspx)
+  * 21:00 - ?? - [George IV](https://www.lse.ac.uk/intranet/LSEServices/cateringServices/restaurantsAndCafes/georgeIVPub/Home.aspx)
 
 
 Video of the event can be found below:
 
-https://youtu.be/kK7iISRqiLU
+[Video Link](https://youtu.be/kK7iISRqiLU)
 
 

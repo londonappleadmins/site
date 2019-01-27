@@ -11,9 +11,9 @@ categories:
 - Events
 ---
 
-Our July meet of 2017 was hosted by the lovely people at [ThoughtWorks](http://thoughtworks.com) - thanks Steve! Here's the video:
+Our July meet of 2017 was hosted by the lovely people at [ThoughtWorks](https://thoughtworks.com) - thanks Steve! Here's the video:
 
-https://www.youtube.com/watch?v=e327LfbKxdg
+[Video Link](https://www.youtube.com/watch?v=e327LfbKxdg)
 
 The schedule was as follows:
 

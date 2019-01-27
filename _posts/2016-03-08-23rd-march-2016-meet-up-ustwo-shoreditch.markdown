@@ -38,4 +38,4 @@ The schedule is below:
 
 Here is the video of the event:
 
-https://www.youtube.com/watch?v=iLYkLcLLllE
+[Video Link](https://www.youtube.com/watch?v=iLYkLcLLllE)

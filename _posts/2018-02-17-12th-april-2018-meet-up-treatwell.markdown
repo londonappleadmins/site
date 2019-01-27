@@ -51,7 +51,7 @@ Your nearest public transport links are:
   * Holborn Station (Central Line and Picadilly Line)
 
 
-The Pub we're aiming for will be The Horse and Wig (formerly The Fulwood) - https://www.facebook.com/thehorseandwigpub
+The Pub we're aiming for will be [The Horse and Wig (formerly The Fulwood)](https://www.facebook.com/thehorseandwigpub)
 
 
 

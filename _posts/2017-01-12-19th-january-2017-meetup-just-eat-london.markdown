@@ -13,7 +13,7 @@ categories:
 
 On January 19th, Just Eat hosted us in their London office. Thank you, Sachin Parmar! We had a great turnout and the venue was fantastic. Watch the video below:
 
-[embed]https://www.youtube.com/watch?v=lxizq5EZHWM[/embed]
+[Video Link](https://www.youtube.com/watch?v=lxizq5EZHWM)
 
 Here's the schedule:
 
