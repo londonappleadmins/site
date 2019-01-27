@@ -23,13 +23,13 @@ Here's the schedule:
   * 19:00 - 19:30 Arrive & mingle
 
 	
-  * 19:30 - 19:50 "[Apple? Got that on Just Eat!](http://www.londonappleadmins.org.uk/wp-content/uploads/2017/02/LDNApplAdminsSachin19-01-17.pdf)" - Sachin Parmar, Just Eat Plc
+  * 19:30 - 19:50 "[Apple? Got that on Just Eat!](/presentations/2017.01.12-LDNApplAdminsSachin19-01-17-2.pdf)" - Sachin Parmar, Just Eat Plc
 
 	
-  * 19:55 - 20:10 "[When lycra meets IT](http://www.londonappleadmins.org.uk/wp-content/uploads/2017/02/LDNApplAdminsJames19-01-17.pdf)" - James Turner, TCC Global
+  * 19:55 - 20:10 "[When lycra meets IT](/presentations/2017.01.12-LDNApplAdminsJames19-01-17.pdf)" - James Turner, TCC Global
 
 	
-  * 20:15 - 20:30 "[MAU, The People's updater](http://www.londonappleadmins.org.uk/wp-content/uploads/2017/02/LDNApplAdminsNeil19-01-17.pdf)" - Neil Martin, University of East London
+  * 20:15 - 20:30 "[MAU, The People's updater](/presentations/2017.01.12-LDNApplAdminsNeil19-01-17-2.pdf)" - Neil Martin, University of East London
 
 	
   * 20:30 - 21:00 Open Discussion

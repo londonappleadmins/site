@@ -20,10 +20,15 @@ The meet up was recorded live & can be found below:
 Below is the schedule, the hyperlinks are to the talks presentations in PDF.
 
 • 18:30 - 19:00 Arrive & mingle
-• 19:00 - 19:20 ["How the !%$@ do you manage oddball software?"](http://www.londonappleadmins.org.uk/wp-content/uploads/2015/05/LDNApplAdmnsNeil11-06-15.pdf) - Neil Martin, Technical Associate - Music, University of East London
-• 19:25 - 19:40 ["Death by .local"](http://www.londonappleadmins.org.uk/wp-content/uploads/2015/05/MacAdminsFinalNotes.pdf) - Richard Ashton, 2nd Line Support Analyst, The White Company
-• 19:45 - 20:00 ["iBeacons and Mac management"](http://www.londonappleadmins.org.uk/wp-content/uploads/2015/05/iBeacons-Presentation-09.key) - David Acland, Technical Director, Amsys
+
+• 19:00 - 19:20 ["How the !%$@ do you manage oddball software?"](/presentations/2015.05.15-LDNApplAdmnsNeil11-06-15-2.pdf) - Neil Martin, Technical Associate - Music, University of East London
+
+• 19:25 - 19:40 ["Death by .local"](/presentations/2015.05.15-MacAdminsFinalNotes-2.pdf) - Richard Ashton, 2nd Line Support Analyst, The White Company
+
+• 19:45 - 20:00 ["iBeacons and Mac management"](/presentations/2015.05.15-iBeacons-Presentation-09.key) - David Acland, Technical Director, Amsys
+
 • 20:00 - 20:30 Open Q&A, WWDC playback.
+
 • 20:30 - ? To the pub?
 
 

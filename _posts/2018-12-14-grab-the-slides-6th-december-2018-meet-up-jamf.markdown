@@ -23,19 +23,19 @@ The schedule was as follows:
   * 18:30 - 19:00: Arrive and mingle
 
  	
-  * 19:00 - 19:15: ["Jamf Connect" - Ross Drummond - Jamf](https://drive.google.com/open?id=1V-lpt7wJXErRF3goxunG2YcflMYZtxOd)
+  * 19:00 - 19:15: ["Jamf Connect" - Ross Drummond - Jamf](/presentations/2018.12.14-LDNApplAdminsRoss06-12-18.pdf)
 
  	
-  * 19:20 - 19:35: ["DEPNotify, To DEP and beyond" - Mark Lamont - ITV](https://drive.google.com/open?id=1X8UEPVIc3-ZfSleR2-tGil3oXrluqeCI)
+  * 19:20 - 19:35: ["DEPNotify, To DEP and beyond" - Mark Lamont - ITV](/presentations/2018.12.14-LDNApplAdminsMark06-12-18.pptx)
 
  	
   * 19:40 - 20:15: Break
 
  	
-  * 20:20 - 20:35: ["Password rotation stuff" - Piero Mamberti - GoCardless](https://drive.google.com/open?id=1UGbjjX9yaa3mwHSJf70RBilZtImStN5s)
+  * 20:20 - 20:35: ["Password rotation stuff" - Piero Mamberti - GoCardless](/presentations/2018.12.14-LDNApplAdminsPiero06-12-18.pptx)
 
  	
-  * 20:40 - 20:55: ["More Slackin'" - Ben Toms - DataJAR](https://drive.google.com/open?id=1IoYXkT_1ZCd9jD1ejiY_CMrdpO9h3y_O)
+  * 20:40 - 20:55: ["More Slackin'" - Ben Toms - DataJAR](/presentations/2018.12.14-LDNApplAdminsBen06-12-18.pdf)
 
  	
   * 21:00 - ?: To the pub!

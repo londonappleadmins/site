@@ -21,10 +21,10 @@ The schedule was as follows (click the links to download the slides):
   * 18:30 - 19:00: Arrive and mingle
 
  	
-  * 19:00 - 19:15: "[Mobile Accounts in 2018? Go local](https://drive.google.com/open?id=1QA69ooonQJUC4rk_JM-xi_b3PQy36E0m)" - Ryan Slater, Capital One
+  * 19:00 - 19:15: "[Mobile Accounts in 2018? Go local](/presentations/2018.09.24-LDNApplAdminsRyan21-09-18.pdf)" - Ryan Slater, Capital One
 
  	
-  * 19:20 - 19:35: "[Good PKG gone BAD](https://drive.google.com/open?id=1Oz1j89TYwNfIS2teQKQsg47dJm5cfN68)" - Richard Purves, Gun for hire
+  * 19:20 - 19:35: "[Good PKG gone BAD](/presentations/2018.09.24-LDNApplAdminsRichard21-09-18.pdf)" - Richard Purves, Gun for hire
 
  	
   * 19:40 - 19:55: Break

@@ -21,16 +21,16 @@ The schedule was as follows - **click the talk titles to get a copy of the slid
   * 18:30 - 19:00: Arrive and mingle
 
  	
-  * 19:00 - 19:15: "[Growing Pains](https://drive.google.com/open?id=1SrH-sZAiilN-KJAbFkRHF42w5Wr8Nvw1)" - Piero Mamberti, GoCardless
+  * 19:00 - 19:15: "[Growing Pains](/presentations/2018.07.30-LDNApplAdminsPieroMamberti26-07-18.pdf)" - Piero Mamberti, GoCardless
 
  	
-  * 19:20 - 19:35: "[Your Passwords Suck](https://drive.google.com/open?id=1ZBpRgjdCxde9hM3S1ed10X8Wwxl2vVBR)" - David Acland, Moof IT
+  * 19:20 - 19:35: "[Your Passwords Suck](/presentations/2018.07.30-LDNApplAdminsDavidAcland26-07-18.pdf)" - David Acland, Moof IT
 
  	
   * 19:40 - 19:55: Break
 
  	
-  * 20:00 - 20:15: "[Signing and De-signing profiles, and You!](https://dazwallace.files.wordpress.com/2018/07/signing-and-de-signing-profiles-and-you.pdf)" - Darren Wallace, dataJAR
+  * 20:00 - 20:15: "[Signing and De-signing profiles, and You!](/presentations/2018.07.30-signing-and-de-signing-profiles-and-you.pdf)" - Darren Wallace, dataJAR
 
  	
   * 20:20 - 20:35: WWDC Round-up

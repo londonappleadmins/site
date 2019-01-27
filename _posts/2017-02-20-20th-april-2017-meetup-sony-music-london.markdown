@@ -24,7 +24,7 @@ Here's the schedule:
   * 19:00 - 19:20 "Life after The Event" - Ross Drummond, Sony Music
 
  	
-  * 19:25 - 21:00 ["Zentral Demo / Workshop" - Henry Stamerjohann, Apfelwerk GmbH & Co.](http://www.londonappleadmins.org.uk/wp-content/uploads/2017/02/LDNApplAdminsHenry20-04-17.pdf)
+  * 19:25 - 21:00 ["Zentral Demo / Workshop" - Henry Stamerjohann, Apfelwerk GmbH & Co.](/presentations/2018.02.20-LDNApplAdminsHenry20-04-17-3.pdf)
 
  	
   * 21:00 - ?? - [To the Pub](https://www.thebuildersarmskensington.co.uk/)!

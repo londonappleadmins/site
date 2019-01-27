@@ -23,10 +23,10 @@ The schedule was as follows - click the links for presentation slides!:
   * 18:30 - 19:00: Arrive, mingle and welcome.
 
  	
-  * 19:00 - 19:15: "[Modern Management of Windows - Intune & Autopilot](http://www.londonappleadmins.org.uk/wp-content/uploads/2018/01/LSE-Demo-25th-Windows-AutoPilot-and-Intune.pdf)" - Terence Beggs - London Metropolitan University
+  * 19:00 - 19:15: "[Modern Management of Windows - Intune & Autopilot](/presentations/2018.02.27-LSE-Demo-25th-Windows-AutoPilot-and-Intune-2.pdf)" - Terence Beggs - London Metropolitan University
 
  	
-  * 19:20 - 19:35: "[Automating Boot Camp and Windows Deployment](https://github.com/joe-hall/laa-250118)." Joe Hall - Goldsmiths, University of London.
+  * 19:20 - 19:35: "[Automating Boot Camp and Windows Deployment](/presentations/2018.02.27-talk-slides.pdf)." Joe Hall - Goldsmiths, University of London.
 
  	
   * 19:40 - 21:00: Panel discussion: “By your powers combined” The convergence of device management in the Apple and Microsoft ecosystems.

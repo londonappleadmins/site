@@ -21,19 +21,19 @@ The schedule was as follows - **click the talk titles to get a copy of the slide
   * 18:30 - 19:00: Arrive and mingle
 
  	
-  * 19:00 - 19:15: "[Treatwell IT, challenges and lessons learned](https://drive.google.com/open?id=1SObtMZEzaQ8rDPMgtl-GAZWWmk32iaGh)" - Jon Arntzen, Treatwell
+  * 19:00 - 19:15: "[Treatwell IT, challenges and lessons learned](/presentations/2018.04.18-LDNApplAdminsJon12-04-18-2.pdf)" - Jon Arntzen, Treatwell
 
  	
-  * 19:20 - 19:35: "[GDPR : the role of Mobile Device Management](https://drive.google.com/open?id=1bt85ZzWyrSTssSVG5nggJcOxgi7oRe-J)" - Angelo Chrysanthou, Treatwell
+  * 19:20 - 19:35: "[GDPR : the role of Mobile Device Management](/presentations/2018.04.18-LDNApplAdminsAngelo12-04-18.pdf)" - Angelo Chrysanthou, Treatwell
 
  	
   * 19:40 - 19:55: Break
 
  	
-  * 20:00 - 20:15: "[Who needs recon.exe anyway!?](https://drive.google.com/open?id=1mBqTUHCVNENmspf1YKUqOOyrJGhtJDdi)" Bob Bryden, Mark Lamont, ITV
+  * 20:00 - 20:15: "[Who needs recon.exe anyway!?](/presentations/2018.04.18-LDNApplAdminsBobMark12-04-18.pdf)" Bob Bryden, Mark Lamont, ITV
 
  	
-  * 20:20 - 20:35: "[Overview of Jamf Pro External Patch Source](https://drive.google.com/open?id=19cuJ5E6lirSVrp5ns1vL-vY1Tu5M62U4)" - Gib Chan, Jamf
+  * 20:20 - 20:35: "[Overview of Jamf Pro External Patch Source](/presentations/2018.04.18-LDNApplAdminsGib12-04-18.pdf)" - Gib Chan, Jamf
 
  	
   * 20:40 - 21:00: Open discussion
