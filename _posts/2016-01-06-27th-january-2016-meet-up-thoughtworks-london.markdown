@@ -32,6 +32,6 @@ The schedule is as follows:
   * 21:00 - ?: To the pub!
 
 
-[Video Link](https://youtu.be/ibH7lM2nN_A)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ibH7lM2nN_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

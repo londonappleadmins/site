@@ -38,6 +38,6 @@ The schedule was:
 
 Video of the event can be found below:
 
-[Video Link](https://youtu.be/kK7iISRqiLU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kK7iISRqiLU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

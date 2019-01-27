@@ -44,4 +44,4 @@ As always, the event was free to attend.
 
 A link to a video of the event can be found below:
 
-[Video Link](https://www.youtube.com/watch?v=HC7tElZBrwg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HC7tElZBrwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

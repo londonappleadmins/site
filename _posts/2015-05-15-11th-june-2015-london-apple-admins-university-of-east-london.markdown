@@ -15,7 +15,7 @@ Our June 11th meet was hosted at University of East London, Stratford [[Directi
 
 The meet up was recorded live & can be found below:
 
-[Video Link](https://www.youtube.com/watch?v=sBB5Ys_Tv3g)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBB5Ys_Tv3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Below is the schedule, the hyperlinks are to the talks presentations in PDF.
 

@@ -58,6 +58,7 @@ If you use any of his software, or like his website or any of his talks, you owe
 
 Watch the video below!
 
-[Video Link](https://youtu.be/AFZMkT7Qhok)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AFZMkT7Qhok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 

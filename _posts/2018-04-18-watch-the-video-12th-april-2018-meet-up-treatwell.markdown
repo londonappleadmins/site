@@ -44,7 +44,7 @@ The schedule was as follows - **click the talk titles to get a copy of the slide
 
 Watch the video below!
 
-[Video Link](https://youtu.be/HRP1RNRJhWA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HRP1RNRJhWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

@@ -41,6 +41,6 @@ The talks were as follows (click the links for slides/extras):
 
 **Watch the video:**
 
-[Video Link](https://www.youtube.com/watch?v=l4EXU2dPOq8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4EXU2dPOq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

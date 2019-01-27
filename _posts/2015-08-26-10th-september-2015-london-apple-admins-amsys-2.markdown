@@ -41,4 +41,4 @@ They will be some drinks & food supplied, & the schedule is below:
 
 A video of the event is below:
 
-[Video Link](https://www.youtube.com/watch?v=2ZQu1XvF-1o)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ZQu1XvF-1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -13,7 +13,7 @@ categories:
 
 Our July meet of 2017 was hosted by the lovely people at [ThoughtWorks](https://thoughtworks.com) - thanks Steve! Here's the video:
 
-[Video Link](https://www.youtube.com/watch?v=e327LfbKxdg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e327LfbKxdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The schedule was as follows:
 

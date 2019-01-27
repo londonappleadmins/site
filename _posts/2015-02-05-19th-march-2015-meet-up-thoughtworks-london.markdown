@@ -17,7 +17,7 @@ As you may see from the [survey](https://www.surveymonkey.com/results/SM-V839MFN
 
 A recording of the meet up can be found on our YouTube channel & has been embedded below
 
-[Video Link](https://www.youtube.com/embed/lo7ZDRK_7BI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lo7ZDRK_7BI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

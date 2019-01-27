@@ -47,4 +47,4 @@ In a London Apple Admins first, we were joined by a remote speaker. Allister Ban
 
 The video of the event can be found below:
 
-[Video Link](https://youtu.be/7ZdBZpaIuWQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZdBZpaIuWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

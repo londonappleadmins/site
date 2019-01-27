@@ -47,6 +47,6 @@ Your nearest public transport links are: Chancery Lane and Russel Square tube st
 
 Watch the stream here:
 
-[Video Link](https://youtu.be/Thd3kwP6Z3I)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Thd3kwP6Z3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

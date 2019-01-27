@@ -32,7 +32,7 @@ Here's the schedule:
 
 Unfortunately, due to network issues, the live stream of the event was not successful and regretfully, Ross' presentation was not recorded as a result. However, Henry's Zentral workshop was caught - watch it below:
 
-[Video Link](https://youtu.be/OO2phgpSLZQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OO2phgpSLZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Sony Music's office can be found at [9 Derry Street](https://goo.gl/maps/Z3YzgtRoqKG2)[,](https://www.google.co.uk/maps/place/Seal+House,+1+Swan+Ln,+London+EC4R+3TN/@51.509407,-0.0903254,17z/data=!3m1!4b1!4m5!3m4!1s0x48760356a457de97:0x766f057305adc338!8m2!3d51.5094037!4d-0.0881367) with High Street Kensington tube station round the corner.
 
