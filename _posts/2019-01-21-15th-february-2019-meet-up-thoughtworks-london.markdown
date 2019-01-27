@@ -14,7 +14,7 @@ categories:
 
 
 
-For our February meet of 2019, the lovely people at [ThoughtWorks](https://www.thoughtworks.com/) are hosting us again with food drinks aplenty, kindly sponsored by [dataJAR](https://datajar.co.uk/).
+For our February meet of 2019, the lovely people at [ThoughtWorks](https://www.thoughtworks.com/) are hosting us again with food and drinks aplenty, kindly sponsored by [dataJAR](https://datajar.co.uk/).
 
 
 
