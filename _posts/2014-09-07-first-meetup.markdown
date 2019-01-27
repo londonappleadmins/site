@@ -23,7 +23,7 @@ In the next few days, a survey will be sent out to those whom attended & watch t
 
 Please also visit or join the following to carry on the conversations from the night.
 
-[##osx-server IRC](http://webchat.freenode.net/?channels=#%23osx-server)
+[##osx-server IRC](https://webchat.freenode.net/?channels=#%23osx-server)
 
 [Mac Enterprise](http://www.macenterprise.org)
 
@@ -31,13 +31,11 @@ Please also visit or join the following to carry on the conversations from the n
 
 Details of the nights speakers can be found below, as well as links to reach out to them directly.
 
-[![IMG_6954](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69541.jpg)](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69541.jpg)
+![image](/images/2014.09.07-IMG_69541.jpg)
 
+BEN TOMS / MACMULE (Pentland Brands)
 
-
-BEN TOMS /MACMULE (Pentland Brands)
-
-[http://macmule.com](http://macmule.com)
+[https://macmule.com](https://macmule.com)
 
 Twitter: [@macmuleblog](https://twitter.com/macmuleblog)
 
@@ -47,9 +45,7 @@ JAMFNation: [bentoms](https://jamfnation.jamfsoftware.com/viewProfile.html?user
 
 
 
-[![IMG_6943](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69431-1024x532.jpg)](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69431.jpg)
-
-
+![image](/images/2014.09.07-IMG_69431-1024x532.jpg)
 
 RICHARD PURVES
 
@@ -62,49 +58,31 @@ IRC: franton
 JAMFNation: [franton](https://jamfnation.jamfsoftware.com/viewProfile.html?userID=6682)
 
 
-[![IMG_6945](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69451-e1410123573875.jpg)](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69451-e1410123573875.jpg)
-
-
-
+![image](/images/2014.09.07-IMG_69451-1024x629.jpg)
 
 DANIEL MINTZ (JAMF Software)
 
-[http://jamfsoftware.com](http://jamfsoftware.com)
+[https://jamfsoftware.com](https://jamfsoftware.com)
 
 Twitter: [@mintzdaniel1](https://twitter.com/mintzdaniel1)
 
 JAMFNation: [mintzd01](https://jamfnation.jamfsoftware.com/viewProfile.html?userID=1901)
 
-[![IMG_6947](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69471-e1410124008708.jpg)](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69471-e1410124008708.jpg)
-
-
-
-
+![image](/images/2014.09.07-IMG_69471-1024x626.jpg)
 
 DARREN WALLACE (Amsys)
 
-[http://www.amsys.co.uk/](http://www.amsys.co.uk/blog/)
+[https://www.amsys.co.uk/](https://www.amsys.co.uk/blog/)
 
 Twitter: [@daz_wallace](https://twitter.com/Daz_Wallace)
 
-[![IMG_6949](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69491-e1410124261755.jpg)](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69491-e1410124261755.jpg)
-
-
-
-
-
-
+![image](/images/2014.09.07-IMG_69491-1024x530.jpg)
 
 DAVE RENWICK (airwatch)
 
-[http://www.air-watch.com](http://www.air-watch.com)
+[http://www.air-watch.com](https://www.air-watch.com)
 
-[![Screen Shot 2014-09-07 at 22.18.04](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/Screen-Shot-2014-09-07-at-22.18.04-e1410124734801.png)](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/Screen-Shot-2014-09-07-at-22.18.04-e1410124734801.png)
-
-
-
-
-
+![image](/images/2014.09.07-Screen-Shot-2014-09-07-at-22.18.04-1024x411.png)
 
 DANA CAMPBELL (macbrained)
 
@@ -116,13 +94,11 @@ IRC: danajc
 
 
 
-[![IMG_6951](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69511-e1410125432360.jpg)](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69511-e1410125432360.jpg)
-
-
+![image](/images/2014.09.07-IMG_69511-1024x613.jpg)
 
 GERARD ALLEN (Stream Solutions)
 
-[http://www.stream.ie](http://www.stream.ie)
+[https://www.stream.ie](https://www.stream.ie)
 
 Twitter: [@zdordauk](https://twitter.com/zvordauk)
 
@@ -130,15 +106,11 @@ JAMFNation: [zvordauk](https://jamfnation.jamfsoftware.com/viewProfile.html?user
 
 
 
-[![IMG_6953](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69531-e1410125650578.jpg)](http://www.londonappleadmins.org.uk/wp-content/uploads/2014/09/IMG_69531-e1410125650578.jpg)
-
-
-
-
+![image](/images/2014.09.07-IMG_69531-1024x806.jpg)
 
 GRAHAM GILBERT (pebble.it)
 
-[http://grahamgilbert.com](http://grahamgilbert.com)
+[https://grahamgilbert.com](https://grahamgilbert.com)
 
 Twitter: [@grahamgilbert](https://twitter.com/grahamgilbert)
 

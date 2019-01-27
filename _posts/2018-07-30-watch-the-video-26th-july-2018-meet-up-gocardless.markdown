@@ -58,6 +58,6 @@ If you use any of his software, or like his website or any of his talks, you owe
 
 Watch the video below!
 
-https://youtu.be/AFZMkT7Qhok
+[Video Link](https://youtu.be/AFZMkT7Qhok)
 
 

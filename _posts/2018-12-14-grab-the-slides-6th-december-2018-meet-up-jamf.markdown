@@ -43,6 +43,6 @@ The schedule was as follows:
 
 Unfortunately, Neil made an abomination of the video and it's too awful to publish - he's sitting in the naughty corner awaiting the finest coal that Santa has to offer later this month. Huge apologies for that!
 
-[![](http://www.londonappleadmins.org.uk/wp-content/uploads/2018/12/LAAJamf2-1024x768.jpeg)](http://www.londonappleadmins.org.uk/wp-content/uploads/2018/12/LAAJamf2.jpeg)
+![image](/images/2018.12.14-LAAJamf2-1024x768.jpeg)
 
-[![](http://www.londonappleadmins.org.uk/wp-content/uploads/2018/12/LAAJamf1-1024x768.jpeg)](http://www.londonappleadmins.org.uk/wp-content/uploads/2018/12/LAAJamf1.jpeg)
+![image](/images/2018.12.14-LAAJamf1-1024x768.jpeg)

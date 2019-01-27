@@ -11,7 +11,7 @@ categories:
 - Events
 ---
 
-For our September meet of 2017, the lovely people at [MullenLowe](http://www.mullenlowelondon.com/) hosted us with [Amsys](http://www.amsys.co.uk/) kindly providing food and drink for our ever expanding waistlines.
+For our September meet of 2017, the lovely people at [MullenLowe](https://www.mullenlowelondon.com/) hosted us with [Amsys](https://www.amsys.co.uk/) kindly providing food and drink for our ever expanding waistlines.
 
 The talks were as follows (click the links for slides/extras):
 
@@ -41,6 +41,6 @@ The talks were as follows (click the links for slides/extras):
 
 **Watch the video:**
 
-https://www.youtube.com/watch?v=l4EXU2dPOq8
+[Video Link](https://www.youtube.com/watch?v=l4EXU2dPOq8)
 
 

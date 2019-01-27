@@ -11,7 +11,7 @@ categories:
 - Events
 ---
 
-[![](http://www.londonappleadmins.org.uk/wp-content/uploads/2017/08/we-need-you-300x230.png)](http://www.londonappleadmins.org.uk/wp-content/uploads/2017/08/we-need-you.png)
+![image](/images/2017.08.11-we-need-you.png)
 
 
 # Your community needs you!

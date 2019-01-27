@@ -11,7 +11,7 @@ categories:
 - Events
 ---
 
-[Amsys](http://www.amsys.co.uk) have generously offered their [Poland Street office](https://www.google.co.uk/maps/place/Amsys+-+Mac+Repair+Walk+In+Centre/@51.5149974,-0.1374234,15z/data=!4m2!3m1!1s0x0:0xa1e17b06e4ea62a6) to host our 10th September 2015 meetup. We will be streaming the event via [Hangouts on Air](https://plus.google.com/events/c8scspddu4s95bruu4a5bfe3qtk).
+[Amsys](https://www.amsys.co.uk) have generously offered their [Poland Street office](https://www.google.co.uk/maps/place/Amsys+-+Mac+Repair+Walk+In+Centre/@51.5149974,-0.1374234,15z/data=!4m2!3m1!1s0x0:0xa1e17b06e4ea62a6) to host our 10th September 2015 meetup. We will be streaming the event via [Hangouts on Air](https://plus.google.com/events/c8scspddu4s95bruu4a5bfe3qtk).
 
 They will be some drinks & food supplied, & the schedule is below:
 
@@ -21,7 +21,7 @@ They will be some drinks & food supplied, & the schedule is below:
   * 18:30 - 19:00 Arrive & mingle
 
 	
-  * 19:00 - 19:05 "Intro to Amsys & [Mac Admin & Developer Conference UK](http://www.macad.uk/)" - Charley Allen, Amsys
+  * 19:00 - 19:05 "Intro to Amsys & [Mac Admin & Developer Conference UK](https://www.macad.uk/)" - Charley Allen, Amsys
 
 	
   * 19:05 - 19:20 TBD - Richard Mallion, Amsys
@@ -41,4 +41,4 @@ They will be some drinks & food supplied, & the schedule is below:
 
 A video of the event is below:
 
-https://www.youtube.com/watch?v=2ZQu1XvF-1o
+[Video Link](https://www.youtube.com/watch?v=2ZQu1XvF-1o)

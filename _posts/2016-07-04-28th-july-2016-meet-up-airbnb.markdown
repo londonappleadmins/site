@@ -21,13 +21,13 @@ The Schedule was as follows:
   * 19:00 - 19:30 Arrive & mingle
 
 	
-  * 19:30 - 19:50 "Being nice with your management tools" - [Graham Gilbert](http://grahamgilbert.com), Airbnb
+  * 19:30 - 19:50 "Being nice with your management tools" - [Graham Gilbert](https://grahamgilbert.com), Airbnb
 
 	
   * 19:55 - 20:10 "Testing AutoPkg Recipes" - Ben Goodstein, University of Oxford
 
 	
-  * 20:15 - 20:30 "Full Stack DEP: Modern Mac Deployment" - [Francois Levaux-Tiffreau](http://maclovin.org/)
+  * 20:15 - 20:30 "Full Stack DEP: Modern Mac Deployment" - [Francois Levaux-Tiffreau](https://maclovin.org/)
 
 	
   * 20:30 - 21:00 Open Discussion
@@ -40,4 +40,4 @@ Airbnb's office is on the fourth floor of [40 Compton Street](https://www.google
 
 There will be drinks and pizza, so please register for free on Eventbrite so we have an idea of numbers.
 
-[![Eventbrite - 28th July 2016 - Meet Up @ Airbnb](https://www.eventbrite.com/custombutton?eid=26405024138)](http://www.eventbrite.com/e/28th-july-2016-meet-up-airbnb-tickets-26405024138?ref=ebtnebregn)
+[![Eventbrite - 28th July 2016 - Meet Up @ Airbnb](https://www.eventbrite.com/custombutton?eid=26405024138)](https://www.eventbrite.com/e/28th-july-2016-meet-up-airbnb-tickets-26405024138?ref=ebtnebregn)

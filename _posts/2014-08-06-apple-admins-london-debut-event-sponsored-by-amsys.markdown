@@ -13,7 +13,7 @@ categories:
 
 
 
-This first "proper" event kicks of on September the 3rd, sponsored by our friends over at [Amsys ](http://www.amsys.co.uk)whom have managed to secure the ["Red Herring" in St Paul's](http://theredherring.co.uk) to host the meet up.
+This first "proper" event kicks of on September the 3rd, sponsored by our friends over at [Amsys](https://www.amsys.co.uk) whom have managed to secure the ["Red Herring" in St Paul's](https://theredherring.co.uk) to host the meet up.
 
 
 

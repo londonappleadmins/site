@@ -39,6 +39,6 @@ Thank you to our wonderful speakers and panellists - we all had a fantastic even
 
 Watch the video here:
 
-https://youtu.be/th78HH_NBQg
+[Video Link](https://youtu.be/th78HH_NBQg)
 
 We're always looking for venues to host our meet-ups and folks to speak/propose ideas. If you'd like to have us and/or want to speak/propose something for a future meet, please get in touch with a herder via the [MacAdmins Slack](https://macadmins.herokuapp.com/) - we hang out in #london and we are @macmule, @daz_wallace, @squirke, @grahamgilbert and @neilmartin83
