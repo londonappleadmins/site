@@ -29,8 +29,12 @@ jobs:
   test:
     <<: *defaults
     steps:
+      - checkout
       - attach_workspace:
           at: /tmp/site
+      - run:
+          name: bundle install
+          command: bundle install
       - run:
           name: run tests
           command: |
@@ -63,6 +67,9 @@ workflows:
   version: 2
   build_and_deploy:
     jobs:
+      - test:
+          requires:
+            - build
       - build
       - deploy:
           requires:
