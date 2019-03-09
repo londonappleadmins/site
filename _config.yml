@@ -56,6 +56,6 @@ exclude:
   - cmd.sh
 
 theme: jekyll-swiss
-theme_color: magenta
+theme_color: gray
 social_link: twitter
 social_username: ldnappleadmns
