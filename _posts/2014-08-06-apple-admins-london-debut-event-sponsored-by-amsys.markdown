@@ -25,34 +25,34 @@ The proposed Agenda is below, & as you can see we already have a  number of spe
 
 
 
-	
+
   * 19:00-19:15 - Arrivals
 
-	
+
   * 19:15-19:25 - Ben Toms aka macmule (Pentland Brands)
 
-	
+
   * 19:25-19:35 - Richard Purves
 
-	
+
   * 19:45-19:55 - Dan Mintz (JAMF Software)
 
-	
+
   * 19:55-20:05 - Darren Wallace (Amsys)
 
-	
+
   * 20:05-20:15 - Dave Renwick (Airwatch)
 
-	
+
   * 20:05-20:15 - Dana Campbell (macbrained)
 
-	
+
   * 20:15-20:25 - Gerard Allen (Stream Solutions)
 
-	
+
   * 20:25-20:35 - Graham Gilbert (Pebble.it)
 
-	
+
   * 20:35-23:00 - Eat, Drink & Discuss
 
 
