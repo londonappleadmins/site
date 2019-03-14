@@ -19,6 +19,6 @@ The schedule is as follows:
 
 As always, the event is free to attend but space is limited. We've got 50 spaces available, grab one in advance here.
 
-[![Eventbrite - 12th April 2019 – Meet Up @ Jigsaw24](https://www.eventbrite.com/custombutton?eid=39292147872)](https://www.eventbrite.com/e/6th-december-2018-meet-up-jamf-registration-52223190970?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+[![Eventbrite - 12th April 2019 – Meet Up @ Jigsaw24](https://www.eventbrite.com/custombutton?eid=39292147872)](https://www.eventbrite.com/e/12th-april-2019-meet-up-jigsaw24-tickets-58710744417)
 
 Your nearest public transport links are Piccadilly Circus and Oxford Circus tube stations.
