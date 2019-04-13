@@ -12,7 +12,7 @@ The schedule is as follows:
  	
 * 19:00 - 19:15: "Talk Title TBC" - TBC - [Jigsaw24](https://www.jigsaw24.com/)
 * 19:20 - 19:35: "Semi-Advanced BASH" - [Richard Purves](https://www.richard-purves.com/)
-* 19:40 - 19:55: "Talk Title TBC" - Nadine Ripley - [Zinc Network](https://zincnetwork.com/)
+* 19:40 - 19:55: "Talk Title TBC" - [Nadine Ripley](https://macadmins.slack.com/team/U2CK3GAMS/)
 * 20:00 - 21:00: Open discussion
 * 21:00 - ?: To the pub!
 
