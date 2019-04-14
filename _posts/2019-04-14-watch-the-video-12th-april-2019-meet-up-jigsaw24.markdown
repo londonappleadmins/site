@@ -4,7 +4,7 @@ layout: post
 title: Watch the video! 12th April 2019 – Meet Up @ Jigsaw24
 ---
 
-For our April meet of 2019, we were puzzled, but we didn't go to pieces! Jigsaw24 kindly hosted us at their London offices with plentiful amounts of food and drink. Thanks Dave!
+For our April meet of 2019, we were puzzled, but we didn't go to pieces! Jigsaw24 kindly hosted us at their London offices with plentiful amounts of food and drink. Thank you Dave and our great speakers for the evening, Richard and Nadine!
 
 The schedule was as follows - **click the talk titles to get a copy of the slides:**
 
