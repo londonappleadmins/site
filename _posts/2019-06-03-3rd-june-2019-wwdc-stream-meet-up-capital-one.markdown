@@ -1,5 +1,5 @@
 ---
-date: 2019-04-14 18:20:40+00:00
+date: 2019-05-24 18:20:40+00:00
 layout: post
 link: http://www.londonappleadmins.org.uk/events/2019-06-03-3rd-june-2019-wwdc-stream-meet-up-capital-one
 title: 3rd June 2019 – WWDC Stream Meet Up @ Capital One
