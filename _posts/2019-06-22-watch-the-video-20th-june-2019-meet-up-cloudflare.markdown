@@ -1,12 +1,12 @@
 ---
 date: 2019-06-22 00:01:40+00:00
 layout: post
-title: Watch the video! 20th June 2019 – Meet Up @ CloudFlare
+title: Watch the video! 20th June 2019 – Meet Up @ Cloudflare
 ---
 
 London Apple Admins had the content. [Cloudflare](https://www.cloudflare.com/en-gb/) delivered it (along with lots of food and drink)! Huge thanks go to our wonderful speakers, some of whom presented for the first time, as well as Cloudflare's Andrew, Harriet, Naya and Wayne for hosting our June meet of 2019.
 
-The schedule was as follows - **click the talk titles to get a copy of the slides:**:
+The schedule was as follows - **click the talk titles to get a copy of the slides:**
  	
 * 18:30 - 19:00: Arrive and mingle
 * 19:05 - 19:20: ["Past and Present"](/presentations/2019.06.20-LDNApplAdminsNaya.pdf) - [Naya Posotidu](https://uk.linkedin.com/in/nayaposotidou) - [Cloudflare](https://www.cloudflare.com/en-gb/)
