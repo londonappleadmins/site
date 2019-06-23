@@ -36,7 +36,7 @@ If you want to know more, please reach out to one of the London Apple Admins Her
   * Steve Quirke ([Website](https://blog.quirke.org/) or @squirke)
 
  	
-  * Darren Wallace ([Website](http://www.amsys.co.uk/author/daz_wallace/) or @daz_wallace)
+  * Darren Wallace ([Website](https://dazwallace.wordpress.com) or @daz_wallace)
 
 
 P.S. Being a more nomadic group, we’re always on the lookout for new locations and hosts! If you can provide a space, and / or fund some drinks or food, please reach out to us.
