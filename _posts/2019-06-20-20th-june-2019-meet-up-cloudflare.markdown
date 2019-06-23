@@ -2,7 +2,7 @@
 date: 2019-05-23 14:01:40+00:00
 layout: post
 link: http://www.londonappleadmins.org.uk/events/2019-06-20-20th-june-2019-meet-up-cloudflare/
-title: 20th June 2019 – Meet Up @ CloudFlare
+title: 20th June 2019 – Meet Up @ Cloudflare
 ---
 
 London Apple Admins has the content. [Cloudflare](https://www.cloudflare.com/en-gb/) will deliver it (along with lots of food and drink)! Join us at their London offices for our June meet of 2019.
