@@ -11,7 +11,7 @@ The schedule is as follows:
 * 18:30 - 19:00: Arrive and mingle
 * 19:00 - 19:15: "Introductions from Jamf" - [Matt Taylor](https://www.linkedin.com/in/matt-taylor-95139093/) - [Jamf](https://www.jamf.com/)
 * 19:20 - 19:35: "Getting chucked in at the deep end" - [Ewan Colyer](https://www.linkedin.com/in/ewan-colyer-30692b167/) - [Play Sports Network](https://www.playsportsnetwork.com/)
-* 19:40 - 19:55: "99 problems… and regex" - [Mike Dowler](https://www.linkedin.com/in/mikedowler/) - [Ping Identity](https://www.pingidentity.com)
+* 19:40 - 19:55: "99 problems… and regex" - [Mike Dowler](https://www.linkedin.com/in/mikedowler/)
 * 20:00 - 20:15: "Achieving Your Goals With Technology" - [Richard Purves](https://www.richard-purves.com/)
 * 20:20 - 20:35: "New year, who dis?" - [London Apple Admins](https://londonappleadmins.org.uk/)
 * 20:40 - ?: Open discussion - to the pub!
