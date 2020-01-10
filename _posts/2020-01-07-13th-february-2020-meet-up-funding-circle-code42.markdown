@@ -11,8 +11,8 @@ The schedule is as follows:
 * 18:30 - 19:00: Arrive and mingle
 * 19:00 - 19:15: "Thinking outside the box" - Christian Asare-Anderson - [Funding Circle](https://www.fundingcircle.com/uk/)
 * 19:20 - 19:35: "Data Security in the 21st Century - What are your Mac Users taking with them when they leave? Data Security that just works for Mac from Code42. No slides guarantee!" - Paul Martin - [Code42](https://www.code42.com)
-* 19:40 - 19:55: Avalible Slot! Ask us if interested in speaking!
-* 20:00 - 20:15: Avalible Slot! Ask us if interested in speaking!
+* 19:40 - 19:55: "Time machine - Back to the future" - James Bousfield - [Moof IT](https://moof-it.co.uk)
+* 20:00 - 20:15: Title TBC - Henry Heinemann - [Cloudflare](https://www.cloudflare.com/en-gb/)
 * 20:15 - 21:00: Open discussion - To the pub!
 
 As always, the event is free to attend but space can be limited. We've got 100 tickets available, grab one in advance here.
