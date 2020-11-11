@@ -4,7 +4,7 @@ layout: post
 title: 19th November 2020 - Writing AutoPkg recipes with Anthony Reimer (Zoom workshop)
 ---
 
-As we get used to the "new normal", it's more important than ever to focus on deploying the most up to date software. AutoPkg has been a mainstay of the Mac Admin toolbox since 2014 and we're delighted to host the awesome Anthony Reimer as he joins us all the way from Canada to lead a workshop that will take you to the next level!
+As we get used to the "new normal", it's more important than ever to focus on deploying the most up to date software. AutoPkg has been a mainstay of the Mac Admin toolbox since 2014 and we're delighted to host the awesome Anthony Reimer as he joins us all the way from Canada to lead a workshop that will take you to the next level! Thank you to the lovely folks at [ThoughtWorks](https://www.thoughtworks.com/) for sponsoring the Zoom Webinar session!
 
 ## About the Workshop
 
