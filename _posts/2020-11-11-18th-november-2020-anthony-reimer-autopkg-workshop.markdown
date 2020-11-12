@@ -4,13 +4,15 @@ layout: post
 title: 19th November 2020 - Writing AutoPkg recipes with Anthony Reimer (Zoom workshop)
 ---
 
-As we get used to the "new normal", it's more important than ever to focus on deploying the most up to date software. AutoPkg has been a mainstay of the Mac Admin toolbox since 2014 and we're delighted to host the awesome Anthony Reimer as he joins us all the way from Canada to lead a workshop that will take you to the next level! Thank you to the lovely folks at [ThoughtWorks](https://www.thoughtworks.com/) for sponsoring the Zoom Webinar session!
+As we get used to the "new normal", it's more important than ever to focus on deploying the most up to date software. AutoPkg has been a mainstay of the Mac Admin toolbox since 2014 and we're delighted to host the awesome Anthony Reimer as he joins us all the way from Canada to lead a workshop that will take you to the next level! Thank you to the lovely folks at [ThoughtWorks](https://www.thoughtworks.com/) for sponsoring the Zoom session!
 
 ## About the Workshop
 
 You’ve been using AutoPkg(r) to fetch the latest installers for software you deploy and perhaps even do some post-processing. But there are still a few apps that are not covered by the existing AutoPkg recipes publicly available that you would like to automate.
 
 This workshop is designed to help you fill that gap. We’ll cover the basics of how to read an existing recipe and some of the common ways to start building your own recipe. Then we will start building new recipes based on your suggestions. We will conclude with a brief discussion of next steps and how you can then share your creations with the world.
+
+This workshop is a sneak preview of Anthony's session at the [EveryWorld Conference](https://everyworld.com.au) in Australia 25 – 27 November.
 
 ## Technical Requirements
 
@@ -28,4 +30,4 @@ As always, the event is free to attend but space is limited. **We've got 20 tick
 
 [![19th November 2020 - Writing AutoPkg recipes with Anthony Reimer (Zoom workshop)](https://www.eventbrite.com/custombutton?eid=39292147872)](https://www.eventbrite.com/e/19th-november-2020-writing-autopkg-recipes-with-anthony-reimer-zoom-tickets-128798181829)
 
-We'll get a Zoom link out to attendees shortly before the workshop begins. Please also join us in #laa-pub on the [MacAdmins Slack](https://macadmins.org) for informal beers and chat before, during and after the workshop!
+We'll get a Zoom link out to attendees shortly before the workshop begins. Please also join us in #laa-pub on the [MacAdmins Slack](https://macadmins.org) for informal drinks and chat before, during and after the workshop!
