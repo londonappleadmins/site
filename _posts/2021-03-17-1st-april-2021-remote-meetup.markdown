@@ -13,7 +13,9 @@ The schedule is as follows:
 * 18:20 - 18:35: "Upgrading and emulating the BBC Micro in the 21st century for fun and profit" - Dom Adobe
 * 18:40 - 18:55: TBC - [Mateusz Bijakowski](https://yourba.co.uk) - iwoca
 * 19:00 - 19:15: "Learning why Sophos is excellent and causes no problems at all... for fun and profit?" - [Steve Quirke](https://blog.quirke.org/) - [ThoughtWorks](https://www.thoughtworks.com)
-* 19:20 - ?: Open discussion - To the #laa-pub!
+* 19:20 - 19:35: "Nudging users - for fun and for profit" - [Neil Martin](https://soundmacguy.wordpress.com) - [dataJAR Ltd](https://datajar.co.uk)
+* 19:40 - 20:00: News roundup and Q&A - TBC
+* 20:00 - ?: Open discussion - To the #laa-pub!
 
 As always, the event is free to attend but spots can only be obtained via Eventbrite, grab one in advance here:
 
