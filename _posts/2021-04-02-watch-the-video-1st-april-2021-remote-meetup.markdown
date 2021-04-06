@@ -14,7 +14,7 @@ The schedule was as follows - **click the talk titles to get a copy of the slide
 * 18:00 - 18:15: ["Decoder rings! The Adobe License Decoder tool for fun and profit"](/presentations/2021.04.01-LDNApplAdminsDarren.pdf) - [Daz Wallace](https://dazwallace.wordpress.com) - [dataJAR Ltd](https://datajar.co.uk)
 * 18:20 - 18:35: "Upgrading and emulating the BBC Micro in the 21st century for fun and profit" - Dom Adobe
 * 18:40 - 18:55: "PI in iwoca (for fun and profit), what and why" - [Mateusz Bijakowski](https://yourba.co.uk) - iwoca
-* 19:00 - 19:15: "Learning why Sophos is excellent and causes no problems at all... for fun and profit?" - [Steve Quirke](https://blog.quirke.org/) - [ThoughtWorks](https://www.thoughtworks.com)
+* 19:00 - 19:15: ["Learning why Sophos is excellent and causes no problems at all... for fun and profit?"](/presentations/2021.04.01-LDNApplAdminsSteve.pdf) - [Steve Quirke](https://blog.quirke.org/) - [ThoughtWorks](https://www.thoughtworks.com)
 * 19:20 - 19:35: ["Nudging users - for fun and for profit"](/presentations/2021.04.01-LDNApplAdminsNeil.pdf) - [Neil Martin](https://soundmacguy.wordpress.com) - [dataJAR Ltd](https://datajar.co.uk)
 * 19:40 - 20:00: [News roundup and Q&A... for profit?](/presentations/2021.04.01-LDNApplAdminsNews.pdf)
 * 20:00 - ?: Open discussion - To the #laa-pub!
