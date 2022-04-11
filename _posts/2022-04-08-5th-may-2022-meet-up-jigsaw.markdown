@@ -1,7 +1,7 @@
 ---
 date: 2022-04-08 00:01:40+00:00
 layout: post
-title: 5th May 2022 - Meet Up @ Jigsaw - May The Fifth Be With Us
+title: 5th May 2022 - Meet Up @ Jigsaw24 - May The Fifth Be With Us
 ---
 
 We are back with a bang, and we hope you'll join us for our first in-person meet of 2022. We're working with our lovely hosts, [Jigsaw24](https://www.jigsaw24.com/) to put the pieces in place and we know you'll just fit right in!
