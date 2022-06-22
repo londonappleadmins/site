@@ -15,6 +15,10 @@ Here's the schedule:
 * 20:10 - 20:35: "What the flip? Pivoting to 100% remote and now to hybrid workflows as we return to some kind of normality" - Panel discussion - [Jigsaw24](https://www.jigsaw24.com/) and London Apple Admins
 * 20:35 - ?: Open discussion - To the pub!
 
+Watch the video below!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wU0wAqbXtcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 As always, the event is free to attend but space can be limited. We've got 40 tickets available, grab one in advance here.
 
 <!-- Noscript content for added SEO -->
