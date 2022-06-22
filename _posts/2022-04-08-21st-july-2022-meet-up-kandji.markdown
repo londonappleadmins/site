@@ -19,7 +19,7 @@ Here's the schedule:
 As always, the event is free to attend but space can be limited. We've got 80 tickets available, grab one in advance here.
 
 <!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.com/e/21st-july-2022-meet-up-kanji-tickets-371184451687" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
+<noscript><a href="https://www.eventbrite.com/e/21st-july-2022-meet-up-kandji-tickets-371184451687" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
 <!-- You can customise this button any way you like -->
 <button id="eventbrite-widget-modal-trigger-371184451687" type="button">Ooh, Matron!</button>
 
