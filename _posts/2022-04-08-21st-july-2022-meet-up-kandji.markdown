@@ -10,7 +10,7 @@ Here's the schedule:
 
 * 18:30 - 19:00: Arrive and mingle
 * 19:10 - 19:25: "To be revealed..." - [Kandji](https://www.kandji.io)
-* 19:30 - 19:45: "The macOS Security Compliance Project" - [Richard Mallion](https://www.linkedin.com/in/richardmallion) - [Jamf](https://www.jamf.com/)
+* 19:30 - 19:45: "Talk TBC" - Speaker TBC
 * 19:50 - 20:00: Break and Refreshments
 * 20:05 - 20:20: "Introducing the Mac Admins Foundation" - Speaker TBC - [macadmins.org](https://www.macadmins.org/)
 * 20:25 - 20:40: "WWDC State Of The Union" - London Apple Admins
