@@ -9,7 +9,7 @@ It's time to bring some much-needed [character](https://en.wikipedia.org/wiki/Ka
 Here's the schedule:
 
 * 18:30 - 19:00: Arrive and mingle
-* 19:10 - 19:25: "To be revealed..." - [Kandji](https://www.kandji.io)
+* 19:10 - 19:25: "MDM while you sleep" - [Kandji](https://www.kandji.io)
 * 19:30 - 19:45: "Debunking The Monolithic Build" - [James Penning](https://www.linkedin.com/in/james-penning-9b465413a/) - [dataJAR](https://datajar.co.uk/)
 * 19:50 - 20:00: Break and Refreshments
 * 20:05 - 20:20: "Introducing the Mac Admins Foundation" - [Caleb Coy](https://www.linkedin.com/in/calebcoy/) - [macadmins.org](https://www.macadmins.org/)
