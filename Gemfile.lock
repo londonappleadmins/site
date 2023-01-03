@@ -31,7 +31,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.9)
+    jekyll (3.9.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -52,7 +52,7 @@ GEM
     jekyll-swiss (1.0.0)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
-    kramdown (2.3.0)
+    kramdown (2.3.2)
       rexml (>= 0)
     liquid (4.0.1)
     listen (3.1.5)
@@ -93,7 +93,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  jekyll (~> 3.9.0)
+  jekyll (~> 3.9.2)
   jekyll-feed
   jekyll-paginate
   jekyll-swiss (~> 1.0.0)
