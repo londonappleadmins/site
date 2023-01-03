@@ -18,10 +18,7 @@ jobs:
           command: bundle install
       - run:
           name: chown
-          command: chown jekyll:jekyll /tmp/site
-      - run:
-          name: touch
-          command: touch /tmp/site/Gemfile.lock
+          command: chown -R jekyll:jekyll /tmp/site
       - run:
           name: jekyll build
           command: bundle exec jekyll build --source $CIRCLE_WORKING_DIRECTORY
