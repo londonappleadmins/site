@@ -1,4 +1,4 @@
-export JEKYLL_VERSION=3.9.0
+export JEKYLL_VERSION=3.9.2
 docker run --rm \
   --volume="$PWD:/srv/jekyll" \
   --volume="$PWD/vendor/bundle:/usr/local/bundle" \
