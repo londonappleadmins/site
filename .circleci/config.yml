@@ -1,7 +1,7 @@
 defaults: &defaults
   working_directory: /tmp/site
   docker:
-    - image: jekyll/jekyll:3.8.5
+    - image: jekyll/jekyll:4.2.2
   environment:
     - SOURCE_DIR: /tmp/site/_site
     - S3_BUCKET: londonappleadmins
