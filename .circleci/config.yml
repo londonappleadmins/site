@@ -38,7 +38,7 @@ jobs:
       - run:
           name: run tests
           command: |
-            htmlproofer --checks html --ignore-missing-alt '/.*/' --disable_external $SOURCE_DIR
+            htmlproofer --checks html --ignore-missing-alt --disable_external $SOURCE_DIR
   deploy:
     <<: *defaults
     docker:
