@@ -1,0 +1,30 @@
+I"<p>As we get used to the “new normal”, it’s more important than ever to focus on deploying the most up to date software. AutoPkg has been a mainstay of the Mac Admin toolbox since 2014 and we’re delighted to host the awesome Anthony Reimer as he joins us all the way from Canada to lead a workshop that will take you to the next level! Thank you to the lovely folks at <a href="https://www.thoughtworks.com/">ThoughtWorks</a> for sponsoring the Zoom session!</p>
+
+<h2 id="about-the-workshop">About the Workshop</h2>
+
+<p>You’ve been using AutoPkg(r) to fetch the latest installers for software you deploy and perhaps even do some post-processing. But there are still a few apps that are not covered by the existing AutoPkg recipes publicly available that you would like to automate.</p>
+
+<p>This workshop is designed to help you fill that gap. We’ll cover the basics of how to read an existing recipe and some of the common ways to start building your own recipe. Then we will start building new recipes based on your suggestions. We will conclude with a brief discussion of next steps and how you can then share your creations with the world.</p>
+
+<p>This workshop is a sneak preview of Anthony’s session at the <a href="https://everyworld.com.au">EveryWorld Conference</a> in Australia 25 – 27 November.</p>
+
+<h2 id="technical-requirements">Technical Requirements</h2>
+
+<p>Attendees who wish to participate in the hands-on portions of the workshop will need a Mac with the current version of AutoPkg (2.2) and a plain text editor installed (e.g. Atom, BBEdit, Sublime Text, or VSCode). Terminal will be used as well. Optionally, the current version of AutoPkgr (1.5.5) can also be installed.</p>
+
+<p>It is assumed attendees are familiar with AutoPkg and have run some recipes. For those less experienced or those who have not used AutoPkg at the command line, we recommend watching <a href="http://docs.macsysadmin.se/2019/video/Day3Session4.mp4">Greg Neagle’s AutoPkg talk from MacSysAdmin 2019</a> prior to attending the workshop.</p>
+
+<p>The schedule is as follows:</p>
+
+<ul>
+  <li>18:30 - 19:00: Arrive and mingle</li>
+  <li>19:00 - 20:30: “Writing AutoPkg Recipes – A Workshop” - <a href="http://maclabs.jazzace.ca/">Anthony Reimer</a> - <a href="https://www.ucalgary.ca/">University of Calgary</a></li>
+  <li>20:30 - ?: Open discussion - To the #laa-pub!</li>
+</ul>
+
+<p>As always, the event is free to attend but space is limited. <strong>We’ve got 20 tickets available</strong>, grab one in advance here:</p>
+
+<p><a href="https://www.eventbrite.com/e/19th-november-2020-writing-autopkg-recipes-with-anthony-reimer-zoom-tickets-128798181829"><img src="https://www.eventbrite.com/custombutton?eid=39292147872" alt="19th November 2020 - Writing AutoPkg recipes with Anthony Reimer (Zoom workshop)" /></a></p>
+
+<p>We’ll get a Zoom link out to attendees shortly before the workshop begins. Please also join us in #laa-pub on the <a href="https://macadmins.org">MacAdmins Slack</a> for informal drinks and chat before, during and after the workshop!</p>
+:ET
