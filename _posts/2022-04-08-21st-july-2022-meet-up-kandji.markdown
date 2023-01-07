@@ -16,7 +16,9 @@ Here's the schedule:
 * 20:25 - 20:40: "WWDC State Of The Union" - London Apple Admins
 * 20:45 - ?: Open discussion - To the pub!
 
-As always, the event is free to attend but space can be limited. We've got 80 tickets available, grab one in advance here.
+Watch the video below!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ona03nbaHos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.com/e/21st-july-2022-meet-up-kandji-tickets-371184451687" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
