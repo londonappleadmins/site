@@ -23,7 +23,7 @@ Watch the video below!
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.com/e/21st-july-2022-meet-up-kandji-tickets-371184451687" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
 <!-- You can customise this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-371184451687" type="button">Ooh, Matron!</button>
+<button id="eventbrite-widget-modal-trigger-371184451687" type="button">Join us!</button>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 

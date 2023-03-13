@@ -24,7 +24,7 @@ As always, the event is free to attend but space can be limited. We've got 40 ti
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.com/e/5th-may-2022-meet-up-jigsaw24-registration-317738764197" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
 <!-- You can customise this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-317738764197" type="button">Ooh, Matron!</button>
+<button id="eventbrite-widget-modal-trigger-317738764197" type="button">Join us!</button>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
