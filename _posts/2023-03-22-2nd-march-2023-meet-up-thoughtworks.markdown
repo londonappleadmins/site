@@ -19,7 +19,7 @@ Here's the schedule:
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.co.uk/e/22nd-march-2023-meet-up-thoughtworks-london-tickets-566443055427" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
 <!-- You can customise this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-566443055427" type="button">Ooh, Matron!</button>
+<button id="eventbrite-widget-modal-trigger-566443055427" type="button">Join us!</button>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
