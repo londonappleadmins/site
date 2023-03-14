@@ -11,7 +11,7 @@ Here's the schedule:
 * 18:30 - 19:00: Arrive and mingle
 * 19:00 - 19:15: "TBC" - Steve Quirke - Thoughtworks
 * 19:20 - 19:35: "Speaking at LAA for beginners" - Daz Wallace - London Apple Admins
-* 19:40 - 19:55: "Unified Logging" - Matteo - JAMF
+* 19:40 - 19:55: "Unified Logging" - Matteo - Jamf (Jam-F?)
 * 20:00 - 20:15: "TBC" - Speaker - Organisation
 * 20:20 - 21:00: Open discussion
 * 21:00 - ?: To the pub!
