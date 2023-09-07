@@ -1,5 +1,5 @@
 ---
-date: 2023-09-05 13:01:40+00:00
+date: 2023-09-05 12:01:40+00:00
 layout: post
 title: 28th September 2023 - Meet Up @ Kandji
 ---
