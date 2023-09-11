@@ -13,7 +13,7 @@ The schedule is as follows:
 * 19:10 - 19:25: "DDM for Apple Admins: Declarative Device Management is the future of Apple device management."  - Arek Dreyer and Weldon Dodd, Kandji
 * 19:30 - 19:45: "The Evolution of MDM" - Joe Steele, Railsr
 * 19:50 - 20:00: Break and Refreshments
-* 20:05 - 20:20: [TBC] - Martijn Gregoire, Trams
+* 20:05 - 20:20: "LAPS: The Kandji way" - Martijn Gregoire, Trams
 * 20:25 - 20:40: [TBC] - [TBC]
 * 20:45 - ?: Open discussion - To the pub!
 
