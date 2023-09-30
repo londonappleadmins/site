@@ -17,7 +17,7 @@ The schedule was as follows
 * 20:05 - 20:20: [“LAPS: The Kandji way” - Martijn Gregoire, Trams](/presentations/2023.09.28-LAPS-TheKandjiway.pdf)
 * 20:25 - 20:40: ["What's new for enterprise in macOS Sonoma/iOS 17/iPadOS 17" - Daz Wallace - London Apple Admins](/presentations/2023.09.28-WhatsnewforenterpriseinmacOSSonoma-iOS17-iPadOS17.pdf)
 
-Grab a copy of the slides [here](/presentations/2023.07.14-LDNApplAdminsAll.pdf).
+Grab a copy of the slides by clicking the talk titles above
 
 Watch the video below!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DPHhoRzP3Io?si=nHjk04S7bNMqOFgB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
