@@ -36,8 +36,8 @@ jobs:
           name: chown
           command: chown -R jekyll:jekyll /tmp/site
       - run:
-          name: chmod
-          command: chmod -R 755 /tmp/site
+          name: touch
+          command: touch /tmp/site/Gemfile.lock
       - run:
           name: bundle install
           command: bundle install
