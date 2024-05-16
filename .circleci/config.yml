@@ -14,11 +14,11 @@ jobs:
     steps:
       - checkout
       - run:
-          name: bundle install
-          command: bundle install
-      - run:
           name: chown
           command: chown -R jekyll:jekyll /tmp/site
+      - run:
+          name: bundle install
+          command: bundle install
       - run:
           name: jekyll build
           command: bundle exec jekyll build --source $CIRCLE_WORKING_DIRECTORY
@@ -32,6 +32,9 @@ jobs:
       - checkout
       - attach_workspace:
           at: /tmp/site
+      - run:
+          name: chown
+          command: chown -R jekyll:jekyll /tmp/site
       - run:
           name: bundle install
           command: bundle install

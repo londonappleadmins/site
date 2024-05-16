@@ -1,11 +1,5 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-@charset "utf-8";
-
-// Import partials from `sass_dir` and set theme here
 @import
-        "theme-{{ site.theme_color | default: "black" }}.scss"
+        "theme-white.scss"
 ;
 
 .header-title {
@@ -16,26 +10,27 @@
     font-size: 5rem;
 }
 
-.pagination a, .pagination span {
+.pagination a,
+.pagination span {
     padding: 7px 18px;
     border: 1px solid #eee;
     margin-left: -2px;
     margin-right: -2px;
     background-color: #ffffff;
     display: inline-block;
-  }
+}
 
 .pagination a {
-    &:hover {
-        background-color: #f1f1f1;
-        color: #333;
-    }
- }
+    &: hover {
+    background-color: #f1f1f1;
+    color: #333;
+}
+}
 
 .pagination {
     text-align: left;
- }
+}
 
- .paginator-active{
-     font-weight: bold;
- }
+.paginator-active {
+    font-weight: bold;
+}
