@@ -36,6 +36,9 @@ jobs:
           name: chown
           command: chown -R jekyll:jekyll /tmp/site
       - run:
+          name: chmod
+          command: chmod -R 755 /tmp/site
+      - run:
           name: bundle install
           command: bundle install
       - run:
