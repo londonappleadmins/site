@@ -1,38 +1,37 @@
 /*  Only the main Sass file needs front matter (the dashes are enough) */
 
 /* Import partials from `sass_dir` and set theme here */
-@import
-        "theme-{{ site.theme_color | default: "black" }}.scss",
-;
+@import "theme-{{ site.theme_color | default: " black " }}.scss";
 
 .header-title {
-    font-size: 6rem;
+  font-size: 6rem;
 }
 
 .h0 {
-    font-size: 5rem;
+  font-size: 5rem;
 }
 
-.pagination a, .pagination span {
-    padding: 7px 18px;
-    border: 1px solid #eee;
-    margin-left: -2px;
-    margin-right: -2px;
-    background-color: #ffffff;
-    display: inline-block;
+.pagination a,
+.pagination span {
+  padding: 7px 18px;
+  border: 1px solid #eee;
+  margin-left: -2px;
+  margin-right: -2px;
+  background-color: #ffffff;
+  display: inline-block;
 }
 
 .pagination a {
-    &:hover {
-        background-color: #f1f1f1;
-        color: #333;
-    }
+  &:hover {
+    background-color: #f1f1f1;
+    color: #333;
+  }
 }
 
 .pagination {
-    text-align: left;
- }
+  text-align: left;
+}
 
- .paginator-active{
-     font-weight: bold;
+.paginator-active {
+  font-weight: bold;
 }
