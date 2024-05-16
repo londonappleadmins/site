@@ -39,6 +39,9 @@ jobs:
           name: touch
           command: touch /tmp/site/Gemfile.lock
       - run:
+          name: chmod
+          command: chmod a+w /tmp/site/Gemfile.lock
+      - run:
           name: bundle install
           command: bundle install
       - run:
