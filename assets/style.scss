@@ -1,8 +1,6 @@
-/*
-# Only the main Sass file needs front matter (the dashes are enough)
-*/
+/*  Only the main Sass file needs front matter (the dashes are enough) */
 
-/* Import partials from `sass_dir` and set theme here
+/* Import partials from `sass_dir` and set theme here */
 @import
         "theme-{{ site.theme_color | default: "black" }}.scss"
 ;
@@ -22,14 +20,14 @@
     margin-right: -2px;
     background-color: #ffffff;
     display: inline-block;
-  }
+}
 
 .pagination a {
     &:hover {
         background-color: #f1f1f1;
         color: #333;
     }
- }
+}
 
 .pagination {
     text-align: left;
@@ -37,4 +35,4 @@
 
  .paginator-active{
      font-weight: bold;
- }
+}
