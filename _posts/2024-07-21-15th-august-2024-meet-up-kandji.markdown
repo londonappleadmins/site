@@ -10,7 +10,7 @@ For our August meet up of 2024, the great folks at [Kandji](https://www.kandji.i
 The schedule is as follows:
 
 * 18:30 - 19:00: Arrive and mingle
-* 19:10 - 19:40: "What's New for IT - WWDC 2024"
+* 19:10 - 19:40: "What's New for IT - WWDC 2024" (not streamed/recorded)
 * 19:45 - 19:55: Break and Refreshments
 * 20:00 - 20:15: "A MacAdmins guide to Security" - Jack Hollister, [Kandji](https://www.kandji.io/)
 * 20:20 - 20:35: [TBC] - Bob Bryden & Craig Hopkins, [Jigsaw24](https://www.jigsaw24.com)
