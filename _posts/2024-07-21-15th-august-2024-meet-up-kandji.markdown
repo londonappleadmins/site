@@ -1,5 +1,5 @@
 ---
-date: 2024-07-22 11:30:00+00:00
+date: 2024-07-24 11:30:00+00:00
 layout: post
 title: 15th August 2024 - Meet Up @ Kandji
 ---
@@ -13,7 +13,7 @@ The schedule is as follows:
 * 19:10 - 19:40: "What's New for IT - WWDC 2024" (not streamed/recorded)
 * 19:45 - 19:55: Break and Refreshments
 * 20:00 - 20:15: "A MacAdmins guide to Security" - Jack Hollister, [Kandji](https://www.kandji.io/)
-* 20:20 - 20:35: [TBC] - Bob Bryden & Craig Hopkins, [Jigsaw24](https://www.jigsaw24.com)
+* 20:20 - 20:35: "Monitor24: we watch so you don't have to" - Bob Bryden & Craig Hopkins, [Jigsaw24](https://www.jigsaw24.com)
 * 20:40 - 20:55: "Quo vadis, certificates?" - Matteo Bolognini, [Jamf](https://www.jamf.com)
 * 21:00 - ?: Open discussion - To the pub!
 
