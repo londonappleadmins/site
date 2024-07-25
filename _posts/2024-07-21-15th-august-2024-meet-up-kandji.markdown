@@ -1,5 +1,5 @@
 ---
-date: 2024-07-25 11:30:00+01:00
+date: 2024-07-25 11:31:00+01:00
 layout: post
 title: 15th August 2024 - Meet Up @ Kandji
 ---
