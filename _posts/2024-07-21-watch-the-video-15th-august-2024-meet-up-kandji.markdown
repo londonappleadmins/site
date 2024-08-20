@@ -21,3 +21,24 @@ Grab a copy of the slides by clicking the talk titles above
 
 Watch the video below!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lpLrsZnR5b4?si=4lyMsRWXP4sKTzpp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+We're also extremely thankful to Trevor Gerzen for the amazing pictures he captured on the night!
+
+![image](/images/0-2024.08.15-833A4586.jpg)
+![image](/images/1-2024.08.15-833A4695.jpg)
+![image](/images/2-2024.08.15-833A4748.jpg)
+![image](/images/2-2024.08.15-833A4758.jpg)
+![image](/images/3-2024.08.15-833A4761.jpg)
+![image](/images/3-2024.08.15-833A4768.jpg)
+![image](/images/3-2024.08.15-833A4774.jpg)
+![image](/images/3-2024.08.15-833A4785.jpg)
+![image](/images/4-2024.08.15-833A4788.jpg)
+![image](/images/4-2024.08.15-833A4794.jpg)
+![image](/images/40-2024.08.15-833A4808.jpg)
+![image](/images/40-2024.08.15-833A4817-Enhanced-NR.jpg)
+![image](/images/2024.08.15-833A4669-Enhanced-NR.jpg)
+![image](/images/2024.08.15-833A4720.jpg)
+![image](/images/2024.08.15-833A4732.jpg)
+![image](/images/2024.08.15-833A4661-Enhanced-NR.jpg)
+![image](/images/2024.08.15-833A4711.jpg)
+![image](/images/2024.08.15-833A4780.jpg)
