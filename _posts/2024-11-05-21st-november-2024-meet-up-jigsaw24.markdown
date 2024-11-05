@@ -4,7 +4,7 @@ layout: post
 title: 21st November 2024 - Meet Up @ Jigsaw24
 ---
 
-For our August meet up of 2024, the great folks at [Jigsaw24](https://www.jigsaw24.com) are hosting us again with food and beverages aplenty.
+For our November meet up of 2024, the great folks at [Jigsaw24](https://www.jigsaw24.com) are hosting us again with food and beverages aplenty.
 
 The schedule is as follows:
 
