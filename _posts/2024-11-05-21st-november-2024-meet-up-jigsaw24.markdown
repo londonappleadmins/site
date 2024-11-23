@@ -10,7 +10,7 @@ The schedule is as follows:
 
 * 18:30 - 19:00: Arrive and mingle
 * 19:00 - 19:20: "Navigating PAM" - Liam Donnelly - Jigsaw24
-* 19:25 - 19:45: "[TBC]" - James Turner - iwoca
+* 19:25 - 19:45: "Home automation for the office" - James Turner - iwoca
 * 19:50 - 20:10: "Everything old is new again (ish) - fun with OpenCore Legacy Patcher" - Steve Quirke - Thoughtworks
 * 20:15 - 21:00: Open discussion
 * 21:00 - ?: To the pub!
