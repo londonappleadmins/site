@@ -14,10 +14,6 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Install correct Bundler version
-          command: |
-            gem install bundler -v 2.3.7
-      - run:
           name: bundle install
           command: bundle install
       - run:
@@ -36,10 +32,6 @@ jobs:
       - checkout
       - attach_workspace:
           at: /tmp/site
-      - run:
-          name: Install correct Bundler version
-          command: |
-            gem install bundler -v 2.3.7
       - run:
           name: bundle install
           command: bundle install
