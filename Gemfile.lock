@@ -118,7 +118,7 @@ GEM
     unicode-display_width (2.6.0)
     webrick (1.9.1)
     yell (2.2.2)
-    zeitwerk (2.7.2)
+    zeitwerk (2.6.18)
 
 PLATFORMS
   ruby
@@ -132,6 +132,7 @@ DEPENDENCIES
   jekyll-swiss (~> 1.0.0)
   tzinfo-data
   webrick
+  zeitwerk (~> 2.6.0)
 
 BUNDLED WITH
    2.3.7
