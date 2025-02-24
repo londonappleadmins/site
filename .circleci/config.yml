@@ -17,7 +17,6 @@ jobs:
           name: Install correct Bundler version
           command: |
             gem install bundler -v 2.3.7
-            bundle update zeitwerk
       - run:
           name: bundle install
           command: bundle install
@@ -41,7 +40,6 @@ jobs:
           name: Install correct Bundler version
           command: |
             gem install bundler -v 2.3.7
-            bundle update zeitwerk
       - run:
           name: bundle install
           command: bundle install
