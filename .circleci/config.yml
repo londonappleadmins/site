@@ -15,7 +15,7 @@ jobs:
       - checkout
       - run:
           name: bundle install
-          command: bundle install --retry 3
+          command: bundle install --full-index
       - run:
           name: chown
           command: chown -R jekyll:jekyll /tmp/site
@@ -34,7 +34,7 @@ jobs:
           at: /tmp/site
       - run:
           name: bundle install
-          command: bundle install --retry 3
+          command: bundle install --full-index
       - run:
           name: run tests
           command: |
