@@ -9,8 +9,8 @@ For our July meet up of 2025, the great folks at [Jamf](https://www.jamf.com) ar
 The schedule is as follows:
 
 * 18:30 - 19:00: Arrive and mingle
-* 19:00 - 19:35: "Terraform Provider for Jamf Pro" - Daffyd Watkins & Joe Little - Lloyds Banking Group
-* 19:40 - 20:00: "Homebridge" - Ben Toms - Jamf
+* 19:00 - 19:35: "Declarative management of Jamf Pro with terraform" - Daffyd Watkins & Joe Little - Lloyds Banking Group
+* 19:40 - 20:00: "Turning not-HomeKit stuff into kinda-HomeKit stuff with Homebridge" - Ben Toms - Jamf
 * 20:05 - 20:25: TBD
 * 20:30 - 20:50: TBD
 * 21:00 - ?: To the pub!
@@ -18,9 +18,9 @@ The schedule is as follows:
 As always, the event is free to attend but space is limited. We've got 50 tickets available, grab one in advance below.
 
 <!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.com/e/21st-november-2024-meet-up-jigsaw24-tickets-1074567051979" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
+<noscript><a href="https://www.eventbrite.com/e/10th-july-2025-meet-up-jamf-tickets-1364318225539" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
 <!-- You can customise this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-1074567051979" type="button">Join us!</button>
+<button id="eventbrite-widget-modal-trigger-1364318225539" type="button">Join us!</button>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
@@ -31,9 +31,9 @@ As always, the event is free to attend but space is limited. We've got 50 ticket
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '1074567051979',
+        eventId: '1364318225539',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-1074567051979',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-1364318225539',
         onOrderComplete: exampleCallback
     });
 </script>
