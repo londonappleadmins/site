@@ -9,7 +9,7 @@ For our July meet up of 2025, the great folks at [Jamf](https://www.jamf.com) ar
 The schedule is as follows:
 
 * 18:30 - 19:00: Arrive and mingle
-* 19:00 - 19:35: "Declarative management of Jamf Pro with terraform" - Daffyd Watkins & Joe Little - Lloyds Banking Group
+* 19:00 - 19:35: "Declarative management of Jamf Pro with terraform" - Dafydd Watkins & Joe Little - Lloyds Banking Group
 * 19:40 - 20:00: "Turning not-HomeKit stuff into kinda-HomeKit stuff with Homebridge" - Ben Toms - Jamf
 * 20:05 - 20:25: TBD
 * 20:30 - 20:50: TBD
