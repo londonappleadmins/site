@@ -1,5 +1,5 @@
 ---
-date: 2025-11-03 12:00:00+00:00
+date: 2025-11-20 09:00:00+00:00
 layout: post
 title: Watch the video! 12th November 2025 - Meet Up @ Iru
 ---
