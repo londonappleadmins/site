@@ -4,7 +4,7 @@ title: "13th February 2020 - Meet Up @ Funding Circle (with Code42)"
 slug: "13th-february-2020-meet-up-funding-circle-code42"
 ---
 
-Happy New Year! Welcome to our February (and first) meet of 2020 will have a Fun-ding time when we join erm, [Funding Circle](https://www.fundingcircle.com/uk/) (Sponsered by [Code42](https://www.code42.com)) at their offices in the City of London!
+Happy New Year! Welcome to our February (and first) meet of 2020 will have a Fun-ding time when we join erm, [Funding Circle](https://www.fundingcircle.com/uk/) (Sponsored by [Code42](https://www.code42.com)) at their offices in the City of London!
 
 The schedule is as follows:
 
@@ -20,4 +20,3 @@ As always, the event is free to attend but space can be limited. We've got 100 t
 [![13th February 2020 - Meet Up @ Funding Circle (with Code42)](https://www.eventbrite.com/custombutton?eid=39292147872)](https://www.eventbrite.com/e/13th-february-2020-meet-up-funding-circle-with-code42-tickets-88648234255)
 
 Your nearest public transport links are: Mansion House Underground and Cannon Street Underground / Train stations.
-

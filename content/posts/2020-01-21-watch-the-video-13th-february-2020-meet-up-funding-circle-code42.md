@@ -4,7 +4,7 @@ title: "Watch the video! 13th February 2020 - Meet Up @ Funding Circle (with Cod
 slug: "watch-the-video-13th-february-2020-meet-up-funding-circle-code42"
 ---
 
-Happy New Year! Our February (and first) meet of 2020 had a Fun-ding time when we joined erm, [Funding Circle](https://www.fundingcircle.com/uk/) (Sponsered by [Code42](https://www.code42.com)) at their offices in the City of London!
+Happy New Year! Our February (and first) meet of 2020 had a Fun-ding time when we joined erm, [Funding Circle](https://www.fundingcircle.com/uk/) (Sponsored by [Code42](https://www.code42.com)) at their offices in the City of London!
 
 Thanks again to [Funding Circle](https://www.fundingcircle.com/uk/) for hosting, [Code42](https://www.code42.com) for sponsoring and all our speakers. Special thanks to Christian Asare-Anderson, Ewan Ross and Felix Grant who put in so much hard work to organise the event with us.
 
