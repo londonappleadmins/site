@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  {{ partial "head.html" . }}
+  <body>
+
+    <div>
+
+      {{ partial "header.html" . }}
+
+      <div class="container mx-auto px-2 py-4">
+        {{ range .Paginator.Pages }}
+          {{ partial "post_block.html" . }}
+        {{ end }}
+        {{ partial "pagination.html" . }}
+      </div>
+
+    </div>
+
+    {{ partial "footer.html" . }}
+  </body>
+</html>
