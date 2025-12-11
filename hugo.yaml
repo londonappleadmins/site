@@ -1,0 +1,44 @@
+baseURL: https://londonappleadmins.org.uk
+languageCode: en-gb
+title: London Apple Admins
+
+# Match Jekyll permalink structure exactly
+permalinks:
+  posts: "/:year/:month/:day/:slug/"
+
+# Pagination - 6 posts per page (matching Jekyll)
+pagination:
+  pagerSize: 6
+
+# Menu (matching existing navigation order)
+menu:
+  main:
+    - name: Get Involved
+      url: /get-involved/
+      weight: 10
+    - name: About
+      url: /about/
+      weight: 20
+
+# Site parameters
+params:
+  description: "If you in some manner manage or administer devices with an Apple logo & work in London, or happen to be in town when a meet is happening... This is the group for you!"
+  twitter: ldnappleadmns
+
+# Output formats - RSS aliased to feed.xml
+outputs:
+  home:
+    - HTML
+    - RSS
+
+outputFormats:
+  RSS:
+    baseName: feed
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: true
+    noClasses: false

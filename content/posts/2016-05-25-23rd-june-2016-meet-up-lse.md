@@ -1,0 +1,36 @@
+---
+date: 2016-05-25T09:47:23+00:00
+title: "23rd June 2016 - Meet Up @ LSE"
+slug: "23rd-june-2016-meet-up-lse"
+---
+
+The lovely people at the [LSE](https://www.lse.ac.uk/) hosted our  June 2016 meet up.
+
+The schedule was:
+
+
+
+	
+  * 19:00 - 19:30 Arrive & mingle
+
+	
+  * 19:30 - 19:50 "Embracing Mobility in Higher Education IT" - Yannis Lagogiannis, LSE
+
+	
+  * 19:55 - 20:10 "A Short Dive Into File Level Distribution And Intelligent Down-Loaders" - Christoph Fellner, Filewave
+
+	
+  * 20:15 - 20:30 "Introducing iCalverter: ics to O365 cleanup tool" - Darren Wallace, Amsys
+
+	
+  * 20:30 - 21:00 Open Discussion
+
+	
+  * 21:00 - ?? - [George IV](https://www.lse.ac.uk/intranet/LSEServices/cateringServices/restaurantsAndCafes/georgeIVPub/Home.aspx)
+
+
+Video of the event can be found below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kK7iISRqiLU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
