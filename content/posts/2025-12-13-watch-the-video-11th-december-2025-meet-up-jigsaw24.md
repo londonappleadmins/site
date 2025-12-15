@@ -13,7 +13,7 @@ The schedule was as follows:
 * 19:20 - 19:35: ["Hacking Homebrew and How to Defend your Macs"](/presentations/2025.12.11-LAAWorkbrewHackingHomebrewandHowtoDefendYourMacs.pdf) - John Britton - Workbrew
 * 19:40 - 19:55: ["Upgrade Manager: Solving Updates (and My Identity Crisis)"](/presentations/2025.12.11-UpgradeManager.key) - Luke Allen - Jamf
 * 20:00 - 20:15: "Cybersecurity...its a people problem" - Bob Bryden - Xcapism Learning
-* 20:20 - 20:35: "What the... DDM" - Scott Mackay - Jamf
+* 20:20 - 20:35: ["What the... DDM"](/presentations/2025.12.11-WhattheDDM.pdf) - Scott Mackay - Jamf
 
 Watch the video below!
 
