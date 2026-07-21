@@ -21,7 +21,7 @@ As always, the event is free to attend but space is limited. We've got 60 ticket
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.com/e/13th-august-2026-meet-up-iru-tickets-1994680936376?aff=LAAwebsite" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
 <!-- You can customise this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-1955751367989" type="button">Join us!</button>
+<button id="eventbrite-widget-modal-trigger-1994680936376" type="button">Join us!</button>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
@@ -34,7 +34,7 @@ As always, the event is free to attend but space is limited. We've got 60 ticket
         widgetType: 'checkout',
         eventId: '1994680936376',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-1955751367989',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-1994680936376',
         onOrderComplete: exampleCallback
     });
 </script>
