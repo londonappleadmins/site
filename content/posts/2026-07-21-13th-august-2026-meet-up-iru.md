@@ -10,7 +10,7 @@ The schedule is as follows:
 
 * 18:30 - 19:00: Arrive and mingle
 * 19:00 - 19:15: "Patch Notes & Pizza: WWDC 2026 roundup" - Daz Wallace (Iru)
-* 19:20 - 19:35: "Lessons from the Helpdesk" - Matt Short (SiteRx)
+* 19:20 - 19:35: "Lessons from the Helpdesk" - Matt Short
 * 19:40 - 19:55: "Now everyone’s a developer" - James Turner (iwoca)
 * 20:00 - 20:15: "Spelunking macOS telemetry: breadcrumbs to detections" - Matteo Bolognini (Jamf)
 * 20:20 - 21:00: Open discussion
