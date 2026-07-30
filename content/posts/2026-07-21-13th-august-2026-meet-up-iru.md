@@ -1,5 +1,5 @@
 ---
-date: 2026-07-30T11:30:00+01:00
+date: 2026-07-30T09:30:00+01:00
 title: "13th August 2026 - Meet Up @ Iru"
 slug: "13th-august-2026-meet-up-iru"
 ---
