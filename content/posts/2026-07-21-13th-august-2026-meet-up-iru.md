@@ -13,7 +13,8 @@ The schedule is as follows:
 * 19:20 - 19:35: "Lessons from the Helpdesk" - Matt Short
 * 19:40 - 19:55: "Now everyone’s a developer" - James Turner (iwoca)
 * 20:00 - 20:15: "Spelunking macOS telemetry: breadcrumbs to detections" - Matteo Bolognini (Jamf)
-* 20:20 - 21:00: Open discussion
+* 20:20 - 20:35: "jamform and rollout: turn Jamf into (maybe) useful Terraform code" - Neil Martin (Jamf)
+* 20:40 - 21:00: Open discussion
 * 21:00 - ?: To the pub!
 
 As always, the event is free to attend but space is limited. We've got 60 tickets available, grab one in advance below.
