@@ -1,5 +1,5 @@
 ---
-date: 2026-08-15T00:00:00+00:00
+date: 2026-08-15T00:00:00+00:01
 title: "Watch the video! 13th August 2026 - Meet Up @ Iru"
 slug: "watch-the-video-13th-august-meet-up-iru"
 ---
