@@ -1,5 +1,5 @@
 ---
-date: 2026-08-15T00:00:00+00:00
+date: 2026-08-15T00:00:00+00:01
 title: "Watch the video! 13th August 2026 - Meet Up @ Iru"
 slug: "watch-the-video-13th-august-meet-up-iru"
 ---
@@ -27,4 +27,4 @@ The schedule was as follows
 * 21:00 - ?: To the pub!
 
 Watch the video (with full screen slides) below!
-<iframe width="560" height="315" src="https://www.youtube.com/live/4N4AWdsgLwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4N4AWdsgLwI?si=p5T-VAXOfGU-szH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
